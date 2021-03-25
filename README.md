@@ -60,7 +60,7 @@ this field.
 If I were able to work more on this project, I would make a fun mode where you can play tunes from popular 
 songs instead of just randomized notes. 
 
-![text](./assets/First.gif)
+![text](https://cdn.glitch.com/7d136b2d-5482-4245-998f-ca365b0be959%2FFirst.gif)
 
 ## License
 
