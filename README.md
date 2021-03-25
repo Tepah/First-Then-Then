@@ -6,7 +6,7 @@ Submitted by: Pete Potipitak
 
 Time spent: 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/principled-polyester-mandible
 
 ## Required Functionality
 
