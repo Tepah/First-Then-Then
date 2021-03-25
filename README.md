@@ -60,7 +60,7 @@ this field.
 If I were able to work more on this project, I would make a fun mode where you can play tunes from popular 
 songs instead of just randomized notes. 
 
-![Alt Text](first.gif)
+![](./app/assets/first.gif)
 
 ## License
 
